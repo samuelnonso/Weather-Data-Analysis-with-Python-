@@ -18,10 +18,19 @@ File Description
 Here’s a breakdown of key Pandas functions used in the project and what they do:
 
 df.head()	Displays the first 5 rows of the dataset.
+
 df.shape	Returns the number of rows and columns.
+
 df.columns	Lists all column names in the dataset.
+
 df.Weather.unique()	Shows unique weather conditions in the dataset.
+
 df.isnull().sum()	Counts missing values in each column.
+
 df.value_counts()	Counts the occurrences of unique values in a column.
+
 df.describe()	Provides summary statistics (mean, min, max, etc.).
+
 df.info()	Displays the data types and non-null counts.
+
+THANK YOU
